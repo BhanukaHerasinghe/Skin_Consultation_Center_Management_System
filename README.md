@@ -25,3 +25,7 @@ Graphical User Interface can implement activities in this system,
 
 Implementation of Project
 
+The console programme may be used to do the following management tasks;
+
+
+
